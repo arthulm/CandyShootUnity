@@ -3,6 +3,7 @@
 ###A simple shooting app for android cardboard sdk of unity 3d for VR experience
 
 Software required:
+
 1. Unity 3d
 2. Android sdk tools
 
